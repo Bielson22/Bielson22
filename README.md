@@ -95,8 +95,9 @@ e aplicações Web modernas.
 
 <a href="https://projeto-interface-8nb839y1h-bielson22s-projects.vercel.app">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=EcoRadar&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+<img src="./logoEcoradar.png" width="220"/>
+</p>
 </a>
 
 </p>
