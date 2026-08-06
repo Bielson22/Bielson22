@@ -96,9 +96,8 @@ e aplicações Web modernas.
 <a href="https://projeto-interface-8nb839y1h-bielson22s-projects.vercel.app">
 
 <p align="center">
-<img src="./logoEcoradar.png" width="220"/>
+<img src="./assets/logoEcoradar.png" width="220"/>
 </p>
-</a>
 
 </p>
 
