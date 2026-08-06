@@ -41,46 +41,69 @@ e aplicações Web modernas.
 ```
 
 ---
-
 # 🚀 Tecnologias
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,react,angular,js,html,css,tailwind,nodejs,git,github,vscode,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,angular,nodejs,html,css,tailwind,mysql,git,github,vscode,androidstudio&theme=dark"/>
 
-<br><br>
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apex-0176D3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge"/>
-
-</div>
-
----
-
-# ⚙️ Ferramentas
-
-<div align="center">
-
-| Ferramenta | Utilização |
-|------------|------------|
-| VS Code | Desenvolvimento |
-| Git & GitHub | Versionamento |
-| Salesforce | CRM |
-| OpenCV | Visão Computacional |
-| Android Studio | Aplicativos Android |
-| MySQL | Banco de Dados |
-| Node.js | Backend |
-| React | Front-End |
-| Angular | Front-End |
-
-</div>
+</p>
 
 ---
 
-# 🌎 Alguns Projetos
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🚀 Projetos em Destaque
 
 <table>
 
@@ -88,32 +111,39 @@ e aplicações Web modernas.
 
 <td width="50%">
 
-## 🌱 EcoRadar
+<h3 align="center">🌱 EcoRadar</h3>
 
-Sistema Web desenvolvido para gestão ambiental.
+<p align="center">
 
-### Tecnologias
+<a href="https://projeto-interface-8nb839y1h-bielson22s-projects.vercel.app">
 
-- React
-- Tailwind CSS
-- JavaScript
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=EcoRadar&theme=tokyonight&hide_border=true"/>
 
-🔗 https://projeto-interface-8nb839y1h-bielson22s-projects.vercel.app
+</a>
+
+</p>
 
 </td>
 
 <td width="50%">
 
-## 📱 Calculadora Android
+<h3 align="center">☁ Salesforce</h3>
 
-Aplicativo desenvolvido utilizando Java.
+<p align="center">
 
-### Tecnologias
+Sistema utilizando
 
-- Java
-- Android Studio
+• Apex
 
-🔗 https://github.com/bielson22s/calculadora-java
+• Flows
+
+• Automações
+
+• Lightning
+
+• Segurança
+
+</p>
 
 </td>
 
@@ -123,31 +153,39 @@ Aplicativo desenvolvido utilizando Java.
 
 <td>
 
-## ☁ Salesforce
+<h3 align="center">🤖 IA + OpenCV</h3>
 
-Projeto focado em:
+<p align="center">
 
-- Administração
-- Flows
-- Apex
-- Objetos
-- Segurança
-- Automações
+Visão Computacional
+
+MediaPipe
+
+OpenCV
+
+Python
+
+Detecção de mãos
+
+</p>
 
 </td>
 
 <td>
 
-## 🤖 IA + OpenCV
+<h3 align="center">📱 Android</h3>
 
-Projeto de Inteligência Artificial com:
+<p align="center">
 
-- Detecção de mãos
-- Partículas
-- Física
-- Efeitos Visuais
-- OpenCV
-- MediaPipe
+Java
+
+Android Studio
+
+SQLite
+
+Material Design
+
+</p>
 
 </td>
 
@@ -157,190 +195,98 @@ Projeto de Inteligência Artificial com:
 
 ---
 
-# 🎯 Objetivos Atuais
+# 💻 Ambiente de Desenvolvimento
 
-```terminal
-> Salesforce
+<p align="center">
 
-████████████████████ 100%
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,mysql,nodejs,npm"/>
 
-> React
-
-██████████████████░░ 90%
-
-> Python
-
-██████████████████░░ 90%
-
-> Inteligência Artificial
-
-████████████████░░░░ 80%
-
-> OpenCV
-
-███████████████░░░░░ 75%
-
-> Angular
-
-████████████░░░░░░░░ 60%
-```
+</p>
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bielson22s&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielson22s&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bielson22s&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bielson22s&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bielson22s&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
-# 💻 Atualmente Estudando
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,react,angular,salesforce,nodejs"/>
-
-</div>
-
-<br>
+# 🌎 Atualmente Estudando
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║      🚀 ROADMAP DE APRENDIZADO                           ║
-║                                                          ║
-║   ✔ Salesforce                                           ║
-║   ✔ Python                                               ║
-║   ✔ React                                                ║
-║   🔄 Angular                                              ║
-║   🔄 Inteligência Artificial                              ║
-║   🔄 OpenCV                                               ║
-║   🔄 Machine Learning                                     ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║               SYSTEM STATUS                  ║
+╠══════════════════════════════════════════════╣
+║ Salesforce         ██████████████ 100%       ║
+║ Python             █████████████  90%        ║
+║ React              █████████████  90%        ║
+║ Angular            ████████░░░░░ 60%         ║
+║ OpenCV             ██████████░░░ 75%         ║
+║ IA                 ███████████░░ 80%         ║
+║ Machine Learning   ███████░░░░░░ 55%         ║
+╚══════════════════════════════════════════════╝
 ```
 
 ---
 
-# 📚 Áreas de Interesse
+# 🌐 Redes Sociais
 
-<div align="center">
+<p align="center">
 
-| 💡 Área | 🚀 Nível |
-|----------|----------|
-| Salesforce | ⭐⭐⭐⭐⭐ |
-| Python | ⭐⭐⭐⭐☆ |
-| React | ⭐⭐⭐⭐☆ |
-| Java | ⭐⭐⭐⭐☆ |
-| Angular | ⭐⭐⭐☆☆ |
-| Inteligência Artificial | ⭐⭐⭐⭐☆ |
-| OpenCV | ⭐⭐⭐⭐☆ |
-| Front-end | ⭐⭐⭐⭐☆ |
-| Back-end | ⭐⭐⭐☆☆ |
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
 
-</div>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 
----
-
-# ⚡ Curiosidades
-
-```yaml
-Nome: Gabriel Cardoso
-
-Curso:
-  - Ciência da Computação
-
-Interesses:
-  - Inteligência Artificial
-  - Visão Computacional
-  - Salesforce
-  - Desenvolvimento Web
-  - Open Source
-
-Objetivo:
-  Criar soluções inteligentes utilizando IA,
-  automação e interfaces modernas.
-```
-
----
-
-# 🌍 Conecte-se comigo
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/gabriel-soares-bb44b2390/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/bielsoares_015/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="mailto:SEUEMAIL">
+
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+
 </a>
 
-<a href="mailto:gabrielsoarescardoso18@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/SEU_USUARIO">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
-<a href="https://github.com/bielson22s" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+</p>
 
 ---
 
 # 🐍 Snake Contribution
 
-> **Após configurar o GitHub Action**, descomente a linha abaixo.
-
-```html
-<!--
 <p align="center">
-<img src="https://raw.githubusercontent.com/bielson22s/bielson22s/output/github-contribution-grid-snake-dark.svg"/>
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
--->
-```
 
 ---
 
-<div align="center">
+# 👁 Visitor Count
 
-## 💬 "Code. Learn. Build. Repeat."
+<p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,50:0EA5E9,100:8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=0e75b6"/>
 
-</div>
+</p>
+
+---
+
+# ⚡ Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7F00FF&height=140&section=footer"/>
+
+</p>
+
+<h3 align="center">
+
+Code • Learn • Build • Repeat 🚀
+
+</h3>
