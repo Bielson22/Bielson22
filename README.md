@@ -65,11 +65,13 @@ e aplicações Web modernas.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bielson22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielson22&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
 
 ---
 
@@ -77,7 +79,7 @@ e aplicações Web modernas.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Bielson22&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -87,7 +89,7 @@ e aplicações Web modernas.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bielson22&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -97,7 +99,7 @@ e aplicações Web modernas.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Bielson22&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -227,49 +229,48 @@ Material Design
 
 <p align="center">
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
+<a href="https://www.linkedin.com/in/gabriel-soares-bb44b2390/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
-
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-
+<a href="mailto:gabrielsoarescardoso18@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://www.instagram.com/bielsoares_015/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
+<a href="https://github.com/Bielson22" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
-
 ---
 
 # 🐍 Snake Contribution
 
+> Após configurar a GitHub Action, a animação aparecerá automaticamente.
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Bielson22/Bielson22/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 👁 Visitor Count
+# 👀 Visitor Count
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=Bielson22&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
 ---
 
-# ⚡ Quote
+# 💬 Random Dev Quote
 
 <p align="center">
 
@@ -281,12 +282,10 @@ Material Design
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7F00FF&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7F00FF&height=160&section=footer"/>
 
 </p>
 
 <h3 align="center">
-
 Code • Learn • Build • Repeat 🚀
-
 </h3>
