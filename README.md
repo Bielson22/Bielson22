@@ -95,16 +95,6 @@ e aplicações Web modernas.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bielson22&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 🚀 Projetos em Destaque
 
 <table>
@@ -246,18 +236,6 @@ Material Design
 </a>
 
 </p>
----
-
-# 🐍 Snake Contribution
-
-> Após configurar a GitHub Action, a animação aparecerá automaticamente.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Bielson22/Bielson22/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
 ---
 
 # 👀 Visitor Count
