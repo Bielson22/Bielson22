@@ -138,7 +138,7 @@ Flows, automações, Lightning e configurações de segurança.
 </p>
 
 <p align="center">
-<a href="https://github.com/bielson22s/salesforce-bk">
+<a href="https://github.com/Bielson22/BurguerKing-Salesforce">
 <img src="https://img.shields.io/badge/📂%20GitHub-Código%20Fonte-blue?style=for-the-badge">
 </a>
 </p>
