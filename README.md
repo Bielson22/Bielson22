@@ -161,26 +161,6 @@ para detecção de mãos e processamento de imagem em tempo real.
 
 </table>
 
-<h3 align="center">📱 Android</h3>
-
-<p align="center">
-
-Java
-
-Android Studio
-
-SQLite
-
-Material Design
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
 ---
 
 # 💻 Ambiente de Desenvolvimento
