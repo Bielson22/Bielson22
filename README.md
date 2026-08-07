@@ -84,7 +84,6 @@ e aplicações Web modernas.
 # 🚀 Projetos em Destaque
 
 <table>
-
 <tr>
 
 <td width="50%">
@@ -92,60 +91,75 @@ e aplicações Web modernas.
 <h3 align="center">🌱 EcoRadar</h3>
 
 <p align="center">
+Sistema de gestão ambiental desenvolvido com React + Tailwind.
 
+Projeto focado no combate ao descarte incorreto de cigarros,
+utilizando uma interface moderna para conscientização ambiental.
+</p>
+
+<p align="center">
 <a href="https://projeto-interface-8nb839y1h-bielson22s-projects.vercel.app">
-
+<img src="https://img.shields.io/badge/🚀%20Acessar%20Projeto-EcoRadar-green?style=for-the-badge">
+</a>
 </p>
 
 </td>
 
+
 <td width="50%">
 
-<h3 align="center">☁ Salesforce</h3>
+<h3 align="center">📱 Calculadora Android</h3>
 
 <p align="center">
+Aplicativo mobile desenvolvido em Java utilizando Android Studio,
+com interface baseada em Material Design.
+</p>
 
-Sistema utilizando
-
-• Apex
-
-• Flows
-
-• Automações
-
-• Lightning
-
-• Segurança
-
+<p align="center">
+<a href="https://github.com/bielson22s/calculadora-java">
+<img src="https://img.shields.io/badge/📂%20GitHub-Código%20Fonte-black?style=for-the-badge">
+</a>
 </p>
 
 </td>
 
 </tr>
 
+
 <tr>
 
-<td>
+<td width="50%">
 
-<h3 align="center">🤖 IA + OpenCV</h3>
+<h3 align="center">☁️ Salesforce BK</h3>
 
 <p align="center">
+Simulação de ambiente Salesforce utilizando Apex,
+Flows, automações, Lightning e configurações de segurança.
+</p>
 
-Visão Computacional
-
-MediaPipe
-
-OpenCV
-
-Python
-
-Detecção de mãos
-
+<p align="center">
+<a href="https://github.com/bielson22s/salesforce-bk">
+<img src="https://img.shields.io/badge/📂%20GitHub-Código%20Fonte-blue?style=for-the-badge">
+</a>
 </p>
 
 </td>
 
-<td>
+
+<td width="50%">
+
+<h3 align="center">👁️ Visão Computacional</h3>
+
+<p align="center">
+Projeto utilizando Python, OpenCV e MediaPipe
+para detecção de mãos e processamento de imagem em tempo real.
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 <h3 align="center">📱 Android</h3>
 
