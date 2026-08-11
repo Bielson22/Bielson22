@@ -15,8 +15,6 @@
 # 👨‍💻 Sobre Mim
 
 ```bash
-$ whoami
-
 > Gabriel Cardoso
 
 🎓 Estudante de Ciência da Computação
