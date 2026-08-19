@@ -96,7 +96,7 @@ utilizando uma interface moderna para conscientização ambiental.
 
 <td width="50%">
 
-<h3 align="center">🏗️ Yasmin Lopes | Projetos & Legalização</h3>
+<h3 align="center"> Projetos & Legalização</h3>
 
 <p align="center">
 Site profissional desenvolvido para um escritório especializado
