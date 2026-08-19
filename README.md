@@ -96,16 +96,16 @@ utilizando uma interface moderna para conscientização ambiental.
 
 <td width="50%">
 
-<h3 align="center">📱 Calculadora Android</h3>
+<h3 align="center">🏗️ Yasmin Lopes | Projetos & Legalização</h3>
 
 <p align="center">
-Aplicativo mobile desenvolvido em Java utilizando Android Studio,
-com interface baseada em Material Design.
+Site profissional desenvolvido para um escritório especializado
+em projetos arquitetônicos, legalização de imóveis e documentação.
 </p>
 
 <p align="center">
-<a href="https://github.com/bielson22s/calculadora-java">
-<img src="https://img.shields.io/badge/📂%20GitHub-Código%20Fonte-black?style=for-the-badge">
+<a href="https://site-yasmin-s5s9.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Acessar%20Site-Yasmin%20Lopes-0EA5E9?style=for-the-badge">
 </a>
 </p>
 
