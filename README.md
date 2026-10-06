@@ -159,26 +159,6 @@ para detecção de mãos e processamento de imagem em tempo real.
 
 </p>
 
----
-
-# 🌎 Atualmente Estudando
-
-```text
-╔══════════════════════════════════════════════╗
-║               SYSTEM STATUS                  ║
-╠══════════════════════════════════════════════╣
-║ Salesforce         ██████████████ 100%       ║
-║ Python             █████████████  90%        ║
-║ React              █████████████  90%        ║
-║ Angular            ████████░░░░░ 60%         ║
-║ OpenCV             ██████████░░░ 75%         ║
-║ IA                 ███████████░░ 80%         ║
-║ Machine Learning   ███████░░░░░░ 55%         ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
 # 🌐 Redes Sociais
 
 <p align="center">
@@ -201,17 +181,6 @@ para detecção de mãos e processamento de imagem em tempo real.
 
 </p>
 
----
-
-# 👀 Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Bielson22&style=for-the-badge&color=0e75b6"/>
-
-</p>
-
----
 
 # 💬 Random Dev Quote
 
